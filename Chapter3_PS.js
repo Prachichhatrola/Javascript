@@ -1,6 +1,6 @@
 // obj = {harry: 90, shubham: 9, Lovish: 56, Monika: 4}
 let marks = {
-  harry: 90
+  harry: 90,
   shubham: 9,
   Lovish: 56, 
   Monika: 4
